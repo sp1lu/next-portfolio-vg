@@ -10,6 +10,7 @@ function Home() {
           <li><a href='https://www.behance.net/spilu' target='_blank'>Behance</a></li>
           <li><a href='https://www.linkedin.com/in/davide-rivolta/' target='_blank'>Linkedin</a></li>
           <li><Link href='/about'>About</Link></li>
+          <li><Link href='/options'>Options</Link></li>
           <li><Link href='/credits'>Credits</Link></li>
         </ul>
       </nav>
