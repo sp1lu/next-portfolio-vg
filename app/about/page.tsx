@@ -13,8 +13,8 @@ function About() {
                 <p> However, a few exams short of earning my degree, I decided to put my university career on hold and return to my
                     never-fading love for design: I then opened a VAT number and decided to become a <b>freelance graphic designer</b>.</p>
                 <p>Over the years, this led me to collaborate with some digital agencies in the Genoa area and to contribute to the
-                    founding of the university-targeted startup <a href="https://youni.life/" target="_blank">Youni.life</a>.</p>
-                <p>Following clients' requests and my curiosity in learning new things, over time my specialty shifted from
+                    founding of the university-targeted startup <a href='https://youni.life/' target='_blank'>Youni.life</a>.</p>
+                <p>Following clients&apos; requests and my curiosity in learning new things, over time my specialty shifted from
                     <b>illustration</b> to <b>web design</b>, moving through <b>brand design</b> and <b>3D modeling</b>.
                 </p>
                 <p>Intrigued by how an interface I designed could work, I realized that making mockups was no longer enough for me,
