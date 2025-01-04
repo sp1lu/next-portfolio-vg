@@ -1,5 +1,7 @@
 import type { Metadata } from 'next'
-import { AudioProvider } from './store/audio.context';
+
+import { AudioProvider } from './store/audio.context'
+import AudioToggle from '@/components/audio-toggle/AudioToggle'
 
 import './globals.css'
 
@@ -15,6 +17,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <AudioProvider>
           {children}
         </AudioProvider>
+        <AudioToggle />
       </body>
     </html>
   );
