@@ -1,5 +1,7 @@
-import type { Metadata } from "next";
-import "./globals.css";
+import type { Metadata } from 'next'
+import { AudioProvider } from './store/audio.context';
+
+import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Davide Rivolta | Web developer & Graphic designer',
@@ -8,9 +10,11 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en">
+    <html lang='en'>
       <body>
-        {children}
+        <AudioProvider>
+          {children}
+        </AudioProvider>
       </body>
     </html>
   );
