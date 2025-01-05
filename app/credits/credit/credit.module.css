@@ -1,0 +1,16 @@
+.credit {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    gap: 16px;
+}
+
+.credit__role,
+.credit__name {
+    margin: 0;
+}
+
+.credit__role {
+    text-align: right;
+    color: var(--f-muted);
+}

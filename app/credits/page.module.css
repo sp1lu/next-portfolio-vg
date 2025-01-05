@@ -1,0 +1,15 @@
+.credits {
+    display: block;
+    padding: 8% 4%;
+    max-width: 800px;
+    margin: auto;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}

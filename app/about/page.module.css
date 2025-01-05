@@ -1,0 +1,12 @@
+.about {
+    display: block;
+    padding: 8% 4%;
+    max-width: 800px;
+    margin: auto;
+}
+
+@media screen and (max-width: 576px) {
+    .about {
+        padding: 8% 4% 16% 4%;
+    }
+}

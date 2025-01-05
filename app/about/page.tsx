@@ -1,7 +1,16 @@
+import { Metadata } from 'next'
+
+import style from './page.module.css'
+
+export const metadata: Metadata = {
+    title: 'Davide Rivolta | Web developer & Graphic designer',
+    description: 'About me and biography'
+}
+
 function About() {
     return (
-        <main>
-            <h1>About</h1>
+        <main className={style.about}>
+            <h1 className='page-title'>About</h1>
             <div>
                 <p>My father says I do things that go online.</p>
                 <p>My name is Davide, an italian <b>self-taught web developer and graphic designer</b>, video game enthusiast,
