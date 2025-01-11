@@ -1,37 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Videogame ui portfolio
+![Screenshot of the main menu](https://res.cloudinary.com/duuklscys/image/upload/v1718477725/Portfolio/qb2vmj2x5umwox0l12as.png)
+## 📄 Index
+* [About](#-about)
+* [Built with](#-built-with)
+* * [Frameworks and libraries](#frameworks-and-libraries)
+* * [Languages](#languages)
+* * [Software](#software)
+* [Roadmap](#-roadmap)
+* [Credits](#-credits)
+* [Screenshot](#-screenshots)
+* [Contacts](#-contacts)
 
-## Getting Started
+## 🔰 About
+Personal portfolio as a link collector of my social accounts.
 
-First, run the development server:
+The aim of the project was to create a single page application that, despite the simplicity of being a simple link collector, was also creative and represented my passions.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Given my love for video games and their industry, the single page application mocks the main menu of a modern game.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Direct link to the project: <a href="https://daviderivolta.com/" target="_blank">www.daviderivolta.com</a>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔨 Built with
+Here framework adn libraries used for the realization of the project. The project was intended mainly to learn React.js and Next.js frameworks, and Three.js 3D library.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Frameworks and libraries
+* <a href="https://react.dev/" target="_blank">React</a>
+* <a href="https://nextjs.org/" target="_blank">Next.js</a>
+* <a href="https://threejs.org/" target="_blank">Three.js</a>
+* <a href="https://vercel.com/" target="_blank">Vercel</a>
 
-## Learn More
+### Languages
+* HTML
+* CSS
+* TypeScript
 
-To learn more about Next.js, take a look at the following resources:
+### Software
+* Visual Studio Code
+* Adobe Illustrator
+* Figma
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚧 Roadmap
+Some of the features I'd like to implement in the future.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [x] Three js background
+- [x] Add resume pdf link
+- [ ] Change language option
 
-## Deploy on Vercel
+## 🌟 Credits
+Following some sources used as inspiration for the project, as well as music and SFX used for its realization.
+* UI inspiration: <a href="https://interfaceingame.com/games/returnal/" target="_blank">Returnal videogame</a>
+* Logo version inspiration: <a href="https://www.firewatchgame.com/" target="_blank">Firewatch videogame</a>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📷 Screenshots
+![Splash screen](https://res.cloudinary.com/duuklscys/image/upload/v1718477727/Portfolio/bnl95k8gmomucjwhvhfs.png)
+![Main menu](https://res.cloudinary.com/duuklscys/image/upload/v1718477725/Portfolio/qb2vmj2x5umwox0l12as.png)
+![Options](https://res.cloudinary.com/duuklscys/image/upload/v1718477726/Portfolio/ypkjq3obgbqabqy2rjas.png)
+![Credits](https://res.cloudinary.com/duuklscys/image/upload/v1718477726/Portfolio/nutgbmrqzhpiyuhefgpw.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# next-portfolio-vg
+## 📮 Contacts
+Here some places where you can find me.
+
+* <a href="https://daviderivolta.com/" target="_blank">Portfolio</a>
+* <a href="https://dribbble.com/spilu" target="_blank">Dribbble</a>
+* <a href="https://www.behance.net/spilu" target="_blank">Behance</a>
+* <a href="https://www.linkedin.com/in/davide-rivolta/" target="_blank">LinkedIn</a>

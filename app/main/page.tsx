@@ -7,7 +7,7 @@ import style from './page.module.css'
 
 export const metadata: Metadata = {
     title: 'Davide Rivolta | Web developer & Graphic designer',
-    description: 'Portfolio'
+    description: 'Self-taught web developer and graphic designer, video game enthusiast, unique passwords creator, cat lover and lifelong learner based in Italy.'
 }
 
 function Main() {
