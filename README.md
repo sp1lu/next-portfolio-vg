@@ -54,7 +54,6 @@ Following some sources used as inspiration for the project, as well as music and
 ## 📷 Screenshots
 ![Splash screen](https://res.cloudinary.com/duuklscys/image/upload/v1718477727/Portfolio/bnl95k8gmomucjwhvhfs.png)
 ![Main menu](https://res.cloudinary.com/duuklscys/image/upload/v1718477725/Portfolio/qb2vmj2x5umwox0l12as.png)
-![Options](https://res.cloudinary.com/duuklscys/image/upload/v1718477726/Portfolio/ypkjq3obgbqabqy2rjas.png)
 ![Credits](https://res.cloudinary.com/duuklscys/image/upload/v1718477726/Portfolio/nutgbmrqzhpiyuhefgpw.png)
 
 ## 📮 Contacts
