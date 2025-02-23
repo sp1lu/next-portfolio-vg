@@ -21,7 +21,7 @@ function Main() {
                     <li><a href='https://www.behance.net/spilu' target='_blank'>Behance</a></li>
                     <li><a href='https://www.linkedin.com/in/davide-rivolta/' target='_blank'>Linkedin</a></li>
                     <li><Link href='/about'>About</Link></li>
-                    <li><Link href='/pdf/cv_davide_rivolta_2024.pdf' target='_blank'>Resume</Link></li>
+                    <li><Link href='/pdf/cv_davide_rivolta_2025.pdf' target='_blank'>Resume</Link></li>
                     <li><Link href='/credits'>Credits</Link></li>
                 </ul>
             </nav>
